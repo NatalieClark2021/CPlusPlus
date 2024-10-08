@@ -1,0 +1,3 @@
+﻿  mathTrivia.cpp
+C:\Users\Natal\OneDrive\demo\Documents\Fall 2025\programmingLang\mathTrivia\mathTrivia.cpp(17,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  mathTrivia.vcxproj -> C:\Users\Natal\OneDrive\demo\Documents\Fall 2025\programmingLang\mathTrivia\x64\Debug\mathTrivia.exe
